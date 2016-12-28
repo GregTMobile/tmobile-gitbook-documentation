@@ -1,6 +1,6 @@
 # About this Prototype
 
-This book is pre-configured to produce styling consistent with T-Mobile's style guidelines. Use this book as a template for creating new books.  \(I JUST ADDED THIS TEXT TO TEST THAT GITHUB IS WORKING\)
+This book is pre-configured to produce styling consistent with T-Mobile's style guidelines. Use this book as a template for creating new books.
 
 ## To use this book as a template
 
