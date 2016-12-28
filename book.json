@@ -10,8 +10,7 @@
         "wrapclass",
         "addcssjs",
         "richquotes",
-        "autocover",
-        "download-pdf"
+        "autocover"
     ],
     "pluginsConfig": {
         "addcssjs": {
