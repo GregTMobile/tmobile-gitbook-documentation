@@ -2,3 +2,7 @@
 .slide-break {
     page-break-after: always;
 }
+
+@page {
+  size: letter landscape;
+}
