@@ -28,7 +28,7 @@ ol li li {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'TeleGroteskFett'; 
+    font-family: 'TeleGroteskFett', sans-serif; 
    font-weight: normal; 
    font-style: normal; 
     color: #e20074;
