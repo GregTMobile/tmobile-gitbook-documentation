@@ -1,6 +1,6 @@
 # About this Prototype
 
-This book is pre-configured to produce styling consistent with T-Mobile's style guidelines. Use this book as a template for creating new books.
+This book is pre-configured to produce styling consistent with T-Mobile's style guidelines. Use this book as a template for creating new books. Change
 
 ## To use this book as a template
 
