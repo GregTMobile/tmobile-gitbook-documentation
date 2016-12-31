@@ -11,7 +11,8 @@
         "wrapclass",
         "addcssjs",
         "richquotes",
-        "autocover"
+        "remark-inline",
+        "betterpagetitles"
     ],
     "pluginsConfig": {
         "addcssjs": {

@@ -1,5 +1,3 @@
-# About this Prototype
-
 This book is pre-configured to produce styling consistent with T-Mobile's style guidelines. Use this book as a template for creating new books. Change
 
 ## To use this book as a template
@@ -7,10 +5,9 @@ This book is pre-configured to produce styling consistent with T-Mobile's style 
 ### 1. Create a copy of the template
 
 1. Login to [https://github.com](https://github.com)
-2. Navigate to [https://github.com/jeffersonheard/gitbook-book-prototype](https://github.com/jeffersonheard/gitbook-book-prototype)
-3. Click "Fork" to add a copy of this repository to your account.
-4. Click "Settings" on the new repository
-5. Edit the first entry, "Repository Name" to a new name for your book.  **DO NOT USE SPACES IN THE NAME**
+2. Navigate to [https://github.com/GregTMobile/gitbook-prototype3](https://github.com/GregTMobile/gitbook-prototype3)
+3. Open a command line terminal
+3. Follow these instructions on GitHub: [https://help.github.com/articles/duplicating-a-repository/](https://help.github.com/articles/duplicating-a-repository/)
 
 ### 2. Add the result to GitBook
 

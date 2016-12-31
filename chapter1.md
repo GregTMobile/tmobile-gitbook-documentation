@@ -1,6 +1,4 @@
-# Toplevel Heading
-
-View the source of this page to see convenient snippets. 
+The initial heading will be the page chapter, always. You should not add one. View the source of this page to see convenient snippets. 
 
 ## This is the section heading
 
