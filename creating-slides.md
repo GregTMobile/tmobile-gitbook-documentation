@@ -3,6 +3,7 @@
 * To add notes, add three question marks on a blank line. 
     * All subsequent lines will be treated as slide notes. 
     * The end of this slide will show notes.
+* Each file will be a single slide.
     
 ???
 
