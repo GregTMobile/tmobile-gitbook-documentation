@@ -1,7 +1,5 @@
 This book is pre-configured to produce styling consistent with T-Mobile's style guidelines. Use this book as a template for creating new books. 
 
-
-
 ## To use this book as a template
 
 ### 1. Create a copy of the template
@@ -34,5 +32,8 @@ This book is pre-configured to produce styling consistent with T-Mobile's style 
 2. Scroll down to **Features** and make sure the "E-Books \(PDF, MOBI, EPUB\)" switch is on and green. ![](/assets/Screen Shot 2016-12-27 at 5.42.33 PM.png)
 3. Click "Save" and you're done!
 
+### 5. Delete existing pages
+
+Right clicking on a page name in the sidebar should give you the option to delete it.
 
 

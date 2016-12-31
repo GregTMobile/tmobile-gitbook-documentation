@@ -1,17 +1,8 @@
-* Student Edition: https://jeffersonheard.gitbooks.io/gitbook-doc-prototype/content/v/student/
-
-* PDF: https://www.gitbook.com/download/pdf/book/jeffersonheard/gitbook-doc-prototype/content/v/student/
-
-* EPUB: https://www.gitbook.com/download/epub/book/jeffersonheard/gitbook-doc-prototype
-
+* Student Edition: [https://gregt-mobile.gitbooks.io/**gitbook-name**/content/v/student/](https://gregt-mobile.gitbooks.io/new-from-prototype-3/content/v/student/)
+* Instructor Edition: [https://gregt-mobile.gitbooks.io/**gitbook-name**/content/v/instructor/](https://gregt-mobile.gitbooks.io/new-from-prototype-3/content/v/instructor/)
+* PDF: [https://www.gitbook.com/download/pdf/book/gregt-mobile/**gitbook-name**](https://www.gitbook.com/download/pdf/book/gregt-mobile/new-from-prototype-3)
+* EPUB: [https://www.gitbook.com/download/epub/book/gregt-mobile/**gitbook-name**](https://www.gitbook.com/download/epub/book/gregt-mobile/new-from-prototype-3)
 * MOBI:
-https://www.gitbook.com/download/mobi/book/jeffersonheard/gitbook-doc-prototype
+[https://www.gitbook.com/download/mobi/book/gregt-mobile/**gitbook-name**](https://www.gitbook.com/download/mobi/book/gregt-mobile/new-from-prototype-3)
 
-* Instructor Edition: https://jeffersonheard.gitbooks.io/gitbook-doc-prototype/content/v/instructor/
 
-* PDF: https://www.gitbook.com/download/pdf/book/jeffersonheard/gitbook-doc-prototype/v/instructor/
-
-* EPUB: https://www.gitbook.com/download/epub/book/jeffersonheard/gitbook-doc-prototype/v/instructor/
-
-* MOBI:
-https://www.gitbook.com/download/mobi/book/jeffersonheard/gitbook-doc-prototype/v/instructor/
