@@ -19,9 +19,14 @@
 .book.font-family-1 {
     font-family: "TeleGroteskHalbfett", sans-serif;
     font-weight: normal; 
-   font-style: normal; 
-   
+   font-style: normal;   
 }
+
+.remark-slide-content {
+  font-family: "TeleGroteskHalbfett", sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  }
 
 ol li li {
     list-style-type: upper-alpha; 
