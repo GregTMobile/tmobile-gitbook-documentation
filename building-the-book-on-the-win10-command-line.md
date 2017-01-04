@@ -15,6 +15,7 @@ cd {DIRECTORY_NAME}
 Then enter the following **exactly**
 
 ```
+copy /y book.master.json book.json
 gitbook build . website
 gitbook pdf .
 gitbook epub .
