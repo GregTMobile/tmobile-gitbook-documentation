@@ -18,7 +18,7 @@ Then enter the following **exactly**
 gitbook build . website
 gitbook pdf .
 gitbook epub .
-copy book.student.json book.json
+copy /y book.student.json book.json
 gitbook build . website\student
 gitbook pdf .
 gitbook epub .
