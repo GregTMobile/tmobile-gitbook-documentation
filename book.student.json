@@ -1,15 +1,23 @@
 {
     "variables": {
-        "edition": "student",
+        "edition": "instructor",
         "slides": false,
         "outputContent": [
-            "content"
+            "content",
         ]
     },
-    "plugins": ["wrapclass", "addcssjs"],
+    "plugins": [
+        "wrapclass",
+        "addcssjs",
+        "richquotes",
+        "remark-inline",
+        "betterpagetitles"
+    ],
     "pluginsConfig": {
         "addcssjs": {
-            "css": []
+            "css": [
+                "https://fontlibrary.org/face/hk-grotesk"
+            ]
         }
     }
 }
