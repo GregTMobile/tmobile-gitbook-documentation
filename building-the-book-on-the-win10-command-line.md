@@ -24,7 +24,7 @@ gitbook pdf .
 gitbook epub .
 move *.pdf website\student
 move *.epub website\student
-copy /a book.master.json book.json
+copy /y book.master.json book.json
 cd website
 http-server
 ```
