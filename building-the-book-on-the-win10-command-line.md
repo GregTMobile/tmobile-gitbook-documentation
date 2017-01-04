@@ -10,6 +10,11 @@ Find the name of the directory containing the book you want to build.
 
 ```
 cd {DIRECTORY_NAME}
+```
+
+Then enter the following **exactly**
+
+```
 gitbook build . website
 gitbook pdf .
 gitbook epub .
